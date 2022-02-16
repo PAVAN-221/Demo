@@ -116,3 +116,19 @@ function App() {
   );
 } 
 ```
+## React Props
+React components can accept data passed to them called *props*.
+
+Props are passed from the parent component to a child component.
+
+Here we are passing a prop ```name``` from App to the User component.
+```
+function App() {
+  return <User name="John Doe" />
+}
+
+function User(props) {
+  return <h1>Hello, {props.name}</h1>; // Hello, John Doe!
+}
+```
+Props is an object, so we can select the name prop within User to get its value.
