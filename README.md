@@ -104,7 +104,7 @@ We can write fragments in a regular or shorthand syntax: <React.Fragment></React
 ## React Components
 We can organized groups of elements into React components.
 
-A basic function component is written similarly to a regular JavaScript function with a couple of differences.
+A basic function component is written similarly to a regular JavaScript function with a couple of differences.<br/>
    1.Component names must start with a capital letter (that is, MyComponent, instead of myComponent)<br/>
    2.Components, unlike JavaScript functions, must return JSX. 
  
