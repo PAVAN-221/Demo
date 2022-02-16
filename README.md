@@ -20,11 +20,19 @@ Let’s get started!
 
 ## Table of Contents
 .[React Elements](https://www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements)<br/>
-.[React Element Attributes]()
-.[React Element Styles]()
-.[React Fragments]()
-.[React Components]()
-.[React Props]()
-.[React Children Props]()
-.[React Conditionals]()
-.[React Lists]()
+.[React Element Attributes]()<br/>
+.[React Element Styles]()<br/>
+.[React Fragments]()<br/>
+.[React Components]()<br/>
+.[React Props]()<br/>
+.[React Children Props]()<br/>
+.[React Conditionals]()<br/>
+.[React Lists]()<br/>
+.[React Context]()<br/>
+.[React Hooks]()<br/>
+.[React useState Hook]()<br/>
+.[React useEffect Hook]()<br/>
+.[React useRef Hook]()<br/>
+.[React useContext Hook]()<br/>
+.[React useCallback Hook]()<br/>
+.[React useMemo Hook]()<br/>
