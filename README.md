@@ -87,3 +87,32 @@ function MyComponent() {
   );
 }
 ```
+If we don’t want to wrap our elements in a container element like a div, we can use a fragment:
+```
+// valid syntax
+function MyComponent() {
+  return (
+    <>
+      <h1>My header</h1>
+      </p>My paragraph</p>
+    </>
+  );
+}
+```
+We can write fragments in a regular or shorthand syntax: <React.Fragment></React.Fragment> or <></>.
+## React Components
+We can organized groups of elements into React components.
+
+A basic function component is written similarly to a regular JavaScript function with a couple of differences.
+
+ 1.Component names must start with a capital letter (that is, MyComponent, instead of myComponent)
+ 2.Components, unlike JavaScript functions, must return JSX.
+ 
+Here is the basic syntax of a React function component:
+```
+function App() {
+  return (
+     <div>Hello world!</div>
+  );
+} 
+```
