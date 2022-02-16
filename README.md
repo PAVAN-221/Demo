@@ -537,9 +537,9 @@ If you enjoyed this cheatsheet and are looking for the ultimate resource to lear
 
 It will give you all the training you need to:
 
-.Go from absolute beginner to React professional in just 30 minutes a day
-.Build 4 full-stack React projects from scratch to deployment
-.Learn a powerful stack of technologies to build any app you like
+.Go from absolute beginner to React professional in just 30 minutes a day<br/>
+.Build 4 full-stack React projects from scratch to deployment<br/>
+.Learn a powerful stack of technologies to build any app you like<br/>
 
 
 
