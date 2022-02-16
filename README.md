@@ -121,7 +121,7 @@ function User(props) {
 ```
 Props is an object, so we can select the ```name``` prop within ```User``` to get its value.
 
-To embed any dynamic value (that is, a variable or expression) within JSX, you must wrap it in curly braces.
+> To embed any dynamic value (that is, a variable or expression) within JSX, you must wrap it in curly braces.
 
 Since we are only using the ```name``` property on the props object, we can make our code simpler with object destructuring:
 ```
