@@ -44,3 +44,4 @@ React elements are written just like regular HTML elements. You can write any va
 <p>My paragraph>
 <button>My button</button>
 ```
+We write React elements using a feature called **JSX
