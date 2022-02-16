@@ -19,7 +19,7 @@ I’ve put together a super helpful cheatsheet to give you a complete overview o
 Let’s get started!
 
 ## Table of Contents
-.[React Elements](https://www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements)<br/>
+.[React Elements](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-elements)<br/>
 .[React Element Attributes]()<br/>
 .[React Element Styles]()<br/>
 .[React Fragments]()<br/>
@@ -39,6 +39,8 @@ Let’s get started!
 
 ## React Elements
 React elements are written just like regular HTML elements. You can write any valid HTML element in React.
+```
 <h1>My Header</h1>
 <p>My paragraph>
 <button>My button</button>
+```
