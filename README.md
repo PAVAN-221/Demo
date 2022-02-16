@@ -539,11 +539,11 @@ If you enjoyed this cheatsheet and are looking for the ultimate resource to lear
 
 It will give you all the training you need to:
 
-.Go from absolute beginner to React professional in just 30 minutes a day<br/>
-.Build 4 full-stack React projects from scratch to deployment<br/>
-.Learn a powerful stack of technologies to build any app you like<br/>
+- Go from absolute beginner to React professional in just 30 minutes a day<br/>
+- Build 4 full-stack React projects from scratch to deployment<br/>
+- Learn a powerful stack of technologies to build any app you like<br/>
 
-![https://www.freecodecamp.org/news/author/reed](<img width="450" alt="Capture" src="https://user-images.githubusercontent.com/52132063/154238575-a2743ca7-d749-46e0-bd57-74e26aeba895.PNG">)
+
 <img width="1000" alt="Capture" src="https://user-images.githubusercontent.com/52132063/154238575-a2743ca7-d749-46e0-bd57-74e26aeba895.PNG">
 
 *Click to join the React Bootcamp*
