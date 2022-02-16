@@ -78,7 +78,8 @@ React requires that all returned elements be returned within a single “parent�
 
 For example, we can’t return two sibling elements, like an h1 and a paragraph from a component:
 
-```// this syntax is invalid
+```
+// this syntax is invalid
 function MyComponent() {
   return (
     <h1>My header</h1>
