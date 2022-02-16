@@ -39,6 +39,6 @@ Let’s get started!
 
 ## React Elements
 React elements are written just like regular HTML elements. You can write any valid HTML element in React.
-![GitHub Light](<h1>My Header</h1>
+<h1>My Header</h1>
 <p>My paragraph>
-<button>My button</button>)
+<button>My button</button>
