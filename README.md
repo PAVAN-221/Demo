@@ -232,7 +232,7 @@ function Greeting({ name }) {
   return <h1>Welcome, {name}</h1>;
 }
 ```
-Before using Context, its best to see if our components can be better organized to avoid passing props through components that don’t need it.
+> Before using Context, its best to see if our components can be better organized to avoid passing props through components that don’t need it.
 To use Context, we use the ```createContext``` function from React.
 
 We can call it with an initial value to be put on context.
@@ -368,7 +368,7 @@ function Mobile({ open }) {
 
 To use ```useRef```, call it, get the returned value, and put it on the ```ref``` prop for a given React element.
 
-Refs do not have a built-in prop on components, only React elements.
+> Refs do not have a built-in prop on components, only React elements.
 Here is the basic syntax for ```useRef```:
 ```
 import { useRef } from 'react';
@@ -491,7 +491,7 @@ Like ```useEffect``` and ```useCallback```, ```useMemo``` accepts a callback fun
 
 Unlike both of these functions, however, ```useMemo``` is intended to return a value.
 
-You must return the value either explicitly with the ```return``` keyword or implicitly but using the arrow function shorthand (seen below).
+> You must return the value either explicitly with the ```return``` keyword or implicitly but using the arrow function shorthand (seen below).
 
 A real-world example of ```useMemo``` comes from the ```mdx-bundler``` documentation. mdx-bundler is a library for converting .mdx files into React components.
 
