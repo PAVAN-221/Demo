@@ -36,3 +36,9 @@ Let’s get started!
 .[React useContext Hook]()<br/>
 .[React useCallback Hook]()<br/>
 .[React useMemo Hook]()<br/>
+
+## React Elements
+React elements are written just like regular HTML elements. You can write any valid HTML element in React.
+![GitHub Light](<h1>My Header</h1>
+<p>My paragraph>
+<button>My button</button>)
