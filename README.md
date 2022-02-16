@@ -62,4 +62,26 @@ Since JSX is really JavaScript and JavaScript uses a camelcase naming convention
 
 The most common example is the ```class``` attribute, which we write as ```className```.
 
-``<div className="container"></div>``
+```<div className="container"></div>```
+
+## React Element Styles
+To apply inline styles, instead of using double quotes (“”), we use two sets of curly braces.
+
+Inline styles are not written as plain strings, but as properties on objects:
+
+```<h1 style={{ fontSize: 24, margin: '0 auto', textAlign: 'center' }}>My header</h1>```
+
+## React Fragments
+React also gives us an element called a *fragment*.
+
+React requires that all returned elements be returned within a single “parent” component.
+
+For example, we can’t return two sibling elements, like an h1 and a paragraph from a component:
+
+```// this syntax is invalid
+function MyComponent() {
+  return (
+    <h1>My header</h1>
+    </p>My paragraph</p>
+  );
+} ```
