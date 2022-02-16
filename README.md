@@ -19,23 +19,23 @@ I’ve put together a super helpful cheatsheet to give you a complete overview o
 Let’s get started!
 
 ## Table of Contents
-.[React Elements](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-elements)<br/>
-.[React Element Attributes](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-element-attributes)<br/>
-.[React Element Styles](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-element-styles)<br/>
-.[React Fragments](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-fragments)<br/>
-.[React Components](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-components)<br/>
-.[React Props](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-props)<br/>
-.[React Children Props](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-children-props)<br/>
-.[React Conditionals](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-conditionals)<br/>
-.[React Lists](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-lists)<br/>
-.[React Context](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-context)<br/>
-.[React Hooks](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-hooks)<br/>
-.[React useState Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-usestate-hook)<br/>
-.[React useEffect Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-useeffect-hook)<br/>
-.[React useRef Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-useref)<br/>
-.[React useContext Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-usecontext)<br/>
-.[React useCallback Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-usecallback)<br/>
-.[React useMemo Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-usememo
+- [React Elements](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-elements)<br/>
+- [React Element Attributes](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-element-attributes)<br/>
+- [React Element Styles](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-element-styles)<br/>
+- [React Fragments](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-fragments)<br/>
+- [React Components](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-components)<br/>
+- [React Props](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-props)<br/>
+- [React Children Props](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-children-props)<br/>
+- [React Conditionals](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-conditionals)<br/>
+- [React Lists](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-lists)<br/>
+- [React Context](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-context)<br/>
+- [React Hooks](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-hooks)<br/>
+- [React useState Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-usestate-hook)<br/>
+- [React useEffect Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-useeffect-hook)<br/>
+- [React useRef Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-useref)<br/>
+- [React useContext Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-usecontext)<br/>
+- [React useCallback Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-usecallback)<br/>
+- [React useMemo Hook](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-usememo
 )<br/>
 
 ## React Elements
@@ -287,12 +287,12 @@ Additionally, we can create our own custom hooks that give our app custom functi
 
 Many React hooks were added to the core React library as well. We are going to cover the 6 essential hooks you absolutely need to know:
 
-.useState<br/>
-.useEffect<br/>
-.useRef<br/>
-.useContext<br/>
-.useCallback<br/>
-.useMemo
+- useState<br/>
+- useEffect<br/>
+- useRef<br/>
+- useContext<br/>
+- useCallback<br/>
+- useMemo
 ## React useState Hook
 ```useState``` does exactly what it says—it allows us to use stateful values in function components.
 
