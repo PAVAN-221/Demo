@@ -19,7 +19,7 @@ I’ve put together a super helpful cheatsheet to give you a complete overview o
 Let’s get started!
 
 ## Table of Contents
-"."[React Elements](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-elements)<br/>
+.[React Elements](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-elements)<br/>
 .[React Element Attributes](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-element-attributes)<br/>
 .[React Element Styles](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-element-styles)<br/>
 .[React Fragments](https://github.com/PAVAN-221/Demo/blob/main/README.md#react-fragments)<br/>
@@ -542,5 +542,7 @@ It will give you all the training you need to:
 .Build 4 full-stack React projects from scratch to deployment<br/>
 .Learn a powerful stack of technologies to build any app you like<br/>
 
+<img width="450" alt="Capture" src="https://user-images.githubusercontent.com/52132063/154237459-2153f7ab-4f39-4894-960b-8313fbfa18e5.PNG">
 
+*Click to join the React Bootcamp*
 
