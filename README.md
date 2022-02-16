@@ -49,3 +49,17 @@ We write React elements using a feature called *JSX*
 However, because JSX is really just JavaScript functions (and not HTML), the syntax is a bit different.
 
 Unlike HTML, single-tag elements (like the img element), must be self-closing. They must end in a forward slash ```/```:
+
+```
+<img src="my-image.png" />
+<br />
+<hr />
+```
+## React Element Attributes
+Additionally, JSX requires a different syntax for its attributes.
+
+Since JSX is really JavaScript and JavaScript uses a camelcase naming convention (that is, “camelCase”), attributes are written differently than HTML.
+
+The most common example is the ```class``` attribute, which we write as ```className```.
+
+``<div className="container"></div>``
