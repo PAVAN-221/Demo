@@ -542,7 +542,7 @@ It will give you all the training you need to:
 .Build 4 full-stack React projects from scratch to deployment<br/>
 .Learn a powerful stack of technologies to build any app you like<br/>
 
-<img width="450" alt="Capture" src="https://user-images.githubusercontent.com/52132063/154237459-2153f7ab-4f39-4894-960b-8313fbfa18e5.PNG">
+<img width="500" alt="Capture" src="https://www.freecodecamp.org/news/author/reed">
 
 *Click to join the React Bootcamp*
 
