@@ -19,3 +19,4 @@ I’ve put together a super helpful cheatsheet to give you a complete overview o
 Let’s get started!
 
 ## Table of Contents
+[React Elements](https://www.freecodecamp.org/news/the-react-cheatsheet/amp/#react-elements)
