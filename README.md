@@ -1,15 +1,3 @@
-# Demo
-
-## Demo
-
-### Demo
-
-#### Demo
-
-##### Demo
-
-Demo
-
 # The React Cheatsheet for 2022
 
 Do you want to get up to speed with React as quickly as possible?
