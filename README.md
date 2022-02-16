@@ -44,4 +44,8 @@ React elements are written just like regular HTML elements. You can write any va
 <p>My paragraph>
 <button>My button</button>
 ```
-We write React elements using a feature called >*JSX*
+We write React elements using a feature called *JSX*
+
+However, because JSX is really just JavaScript functions (and not HTML), the syntax is a bit different.
+
+Unlike HTML, single-tag elements (like the img element), must be self-closing. They must end in a forward slash ```/```:
